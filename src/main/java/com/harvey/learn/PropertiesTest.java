@@ -261,7 +261,7 @@ public class PropertiesTest {
 	    });
 	    try {
 			System.out.println(explosion.get().toString());
-		} catch (InterruptedException | ExecutionException e) {
+		} catch (Exception e) {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
 		}
