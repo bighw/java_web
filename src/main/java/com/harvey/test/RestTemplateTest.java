@@ -9,7 +9,7 @@
     * @version V1.0  
     */
     
-package com.harvey.learn;
+package com.harvey.test;
 
 import java.net.URI;
 import java.net.URISyntaxException;
